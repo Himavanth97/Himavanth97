@@ -1,10 +1,9 @@
 <h1 align="center">Hi , I'm Himavanth</h1>
 <h3 align="center">Exploring the world of Data with code | SQL |A passionate of Data Science | Data Analysis</h3>
 <img src ="https://raw.githubusercontent.com/tarunrajput/tarunrajput/main/profile.gif"align="right"alt="coding"width="400"
-
-  -  I’m currently learning **Data Science**
-
--  How to reach me **himavanth911@gmail.com**
+  
+- I’m currently learning **Data Science**
+- How to reach me **himavanth911@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
